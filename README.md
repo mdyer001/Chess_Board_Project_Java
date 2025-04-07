@@ -14,7 +14,6 @@ The Chess Board Project is a Java-based application that simulates a chessboard 
 ## Technology Stack
 
 - **Programming Language**: Java
-- **Build Tool**: Maven/Gradle (optional, depending on the setup)
 
 ## Installation
 
